@@ -12,7 +12,6 @@ The notebook uses a consistent visual system:
 
 - High-resolution output at 600 DPI
 - Serif text with Computer Modern math fonts
-- A custom MATLAB-inspired color palette
 - Mathematical axis labels and legends with LaTeX notation
 - Clear layouts for single figures and multi-panel plots
 
@@ -25,17 +24,6 @@ The notebook uses a consistent visual system:
 - Mathematical titles, axes, and legends with raw LaTeX strings
 - A 2 × 2 subplot grid
 - Saving figures as high-quality PNG and vector PDF files
-
-## Repository structure
-
-```text
-matplotlib-plotting-foundations/
-│
-├── matplotlib_your_materials_revised.ipynb
-└── README.md
-```
-
-
 
 ## Main visual configuration
 
