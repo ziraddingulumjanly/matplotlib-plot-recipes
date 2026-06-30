@@ -8,6 +8,11 @@
 
 A focused Matplotlib learning project for creating clean, publication-style mathematical and data visualizations in Python.
 
+![nice-matplotlib-recipes](gif/cover.gif)
+
+______________________________________________________________________
+
+
 The notebook uses a consistent visual system:
 
 - High-resolution output at 600 DPI
